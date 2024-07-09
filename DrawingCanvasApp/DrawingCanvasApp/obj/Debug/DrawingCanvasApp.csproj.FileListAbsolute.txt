@@ -1,0 +1,10 @@
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\obj\Debug\DrawingCanvasApp.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\obj\Debug\DrawingCanvasApp.Form1.resources
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\obj\Debug\DrawingCanvasApp.Properties.Resources.resources
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\obj\Debug\DrawingCanvasApp.csproj.GenerateResource.cache
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\obj\Debug\DrawingCanvasApp.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\bin\Debug\DrawingCanvasApp.exe.config
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\bin\Debug\DrawingCanvasApp.exe
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\bin\Debug\DrawingCanvasApp.pdb
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\obj\Debug\DrawingCanvasApp.exe
+C:\Users\henry\source\repos\DrawingCanvasApp\DrawingCanvasApp\obj\Debug\DrawingCanvasApp.pdb
